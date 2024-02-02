@@ -1,6 +1,6 @@
 # NNoor-Fatima
 # 💫 About Me:
-📚I am currently focused on acquiring new knowledge and reinforcing my understanding of previously learned concepts.<br><br>👻Ask me about C++, Assembly Language<br><br>📌I am presently gaining proficiency in SQL, MongoDB, Shell Script, and Docker.<br><br>💻I was far more interested in Accounting than Computer Science.
+📚I am currently focused on acquiring new knowledge and reinforcing my understanding of previously learned concepts.<br><br>👻Ask me about C++, Assembly Language.<br><br>📌I am presently gaining proficiency in SQL, MongoDB, Shell Script, and Docker.<br><br>💻I was far more interested in Accounting than Computer Science.
 
 
 ## 🌐 Socials:
