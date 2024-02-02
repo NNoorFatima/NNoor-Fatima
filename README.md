@@ -25,4 +25,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=NNoorFatima&icon=2&color=5)](https://visitcount.itsvg.in)
 
+[![](https://visitcount.itsvg.in/api?id=NNoor-Fatima&label=Profile%20Views&color=10&icon=1&pretty=true)](https://visitcount.itsvg.in)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
